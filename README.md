@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/kamran-umer-5852b0214"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.kamranumer.com/"><img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Website"></a>
   <a href="mailto:kamranumer080@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=KamranUmer&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
