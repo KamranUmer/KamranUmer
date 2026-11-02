@@ -119,7 +119,8 @@ Retrieval-augmented QA over 50,000 Wikipedia passages: MPNet retriever, Pinecone
   <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages" width="49%">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KamranUmer&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" alt="Contribution streak" width="80%">
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="49%">
 </p>
 
 ## 🐍 Contribution snake
